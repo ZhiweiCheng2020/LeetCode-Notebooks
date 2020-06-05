@@ -1,2 +1,4 @@
 Here is nothing, let's add a line.
-I'm having 
+I'm having fun!
+
+I learned Git and Notion today!
